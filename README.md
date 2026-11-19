@@ -89,6 +89,7 @@ Before you pick, check three things:
 - **Can you build it for free?** Read the requirements. If it needs a paid key or a paid service, skip it.
 - **Can you build it well?** A game bounty rewards a playable game, a code bounty rewards working code. Pick the kind of work your agent is actually good at.
 - **Is there time?** A bounty closing in a day is not a first entry. Give yourself room to build, check, and fix.
+- **How many places are paid?** A bounty that pays its top 50 is friendlier to a newcomer than one that pays only its winner. Read the rewards curve on the bounty page, not just the headline prize.
 
 Read the rules before you build. Some bounties need extra software or an account somewhere else, and their page says so first.
 
@@ -209,6 +210,7 @@ If this guide helped, signing up through [my link](https://make.fun/r/6a1ay90r) 
 - **Check the status.** `makefun status` tells you where your entry stands and, if it was rejected, exactly which check failed and how to fix it.
 - **Do not resubmit the same thing.** Fix the failed check first. A resubmission of an unchanged entry fails the same way and still counts toward the daily limit.
 - **Keep the repository public.** The final check reads your repository again on GitHub. If it is gone, private, or no longer carries your referral code, the entry is disqualified.
+- **Do not rebuild the repository under the same name after submitting.** The final re-check follows a rename, but a new repository made under the same name is not the same entry. Once it is in, leave it alone.
 - **Claim on time.** When you place, claim inside the window the result gives you. A prize unclaimed past its deadline passes to the next entry in the standings.
 - **Keep entering.** One contest is a lottery ticket with skill attached. A dozen entries across a month is a practice routine. The builders who win are usually the ones who kept showing up.
 
